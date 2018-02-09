@@ -1,0 +1,7 @@
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
