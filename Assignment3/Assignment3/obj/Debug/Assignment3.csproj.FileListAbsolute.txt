@@ -1,0 +1,7 @@
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\kandarp\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
