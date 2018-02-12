@@ -10,7 +10,7 @@ namespace Assignment3.Problem1
     {
         public static void Answer()
         {
-            double totalPrice = 0, totalQty = 0;
+            double totalPrice = 0, totalQty = 0, totalPriceOfProduts=0;
             List<Product> products = new List<Product>();
             List<Product> costlyProducts = new List<Product>();
             List<Product> chipProducts = new List<Product>();
@@ -55,10 +55,13 @@ namespace Assignment3.Problem1
             {
                 totalPrice += double.Parse(i.Price.Replace(" RS", "").Trim()) * i.Quantity;
                 totalQty += i.Quantity;
+                totalPriceOfProduts += double.Parse(i.Price.Replace(" RS", "").Trim());
 
             }
+            
             Console.WriteLine("\nTotal prize of whole Inventory: " + totalPrice);
-            Console.WriteLine("\nAverage prize of Product: " + totalPrice / totalQty);
+            Console.WriteLine("\nAverage prize of Product w.r.t whole inventory price and total quantity : " + totalPrice / totalQty);
+            Console.WriteLine("\nAverage prize of Product w.r.t all products and it's price: " + totalPriceOfProduts / products.Count);
 
 
             foreach (var p in products)
